@@ -410,6 +410,6 @@ public class MineClearanceFX extends Application {
         minesLeftLabel.setText("剩余地雷: " + gameState.getMinesLeft());
     }
 
-    public static void main(String[] args) {launch(args);}
+    public static void main(String[] args) {launch();}
 }
 
